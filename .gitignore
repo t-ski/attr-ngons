@@ -1,0 +1,6 @@
+.DS_Store
+
+package-lock.json
+out.svg
+
+node_modules/

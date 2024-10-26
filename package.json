@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "author": "Thassilo Martin Schiepanski",
+    "main": "./lib/api.js",
+    "bin": {
+        "attr-ngon": "./lib/cli.js"
+    },
+    "scripts": {
+        "start": "node ./lib/api.js",
+        "test": "node ./test/unit.test.js && ./gen.sh ./test/data.json"
+    },
+    "dependencies": {
+        "sharp": "^0.33.5"
+    }
+}

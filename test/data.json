@@ -1,0 +1,26 @@
+[
+    {
+        "attribute": "Pace",
+        "degree": 0.62
+    },
+    {
+        "attribute": "Shooting",
+        "degree": 0.83
+    },
+    {
+        "attribute": "Passing",
+        "degree": 0.7
+    },
+    {
+        "attribute": "Dribbling",
+        "degree": 0.74
+    },
+    {
+        "attribute": "Defending",
+        "degree": 0.4
+    },
+    {
+        "attribute": "Physical",
+        "degree": 0.78
+    }
+]
